@@ -61,19 +61,19 @@ Si encuentras problemas con el driver JDBC:
 
 ### Login
 
-![Login](readme_imgs/login.png)
+![Login](readme_imgs/Login.png)
 
 ### Menú
 
-![Menú](readme_imgs/menu.png)
+![Menú](readme_imgs/Menu.png)
 
 ### Reserva específica
 
-![Reserva específica](readme_imgs/reserva_especifica.png)
+![Reserva específica](readme_imgs/Reserva_especifica.png)
 
 ### Consulta específica
 
-![Consulta reserva](readme_imgs/consulta_reserva.png)
+![Consulta reserva](readme_imgs/Consulta_reserva.png)
 
 ### Configuraciones
 
